@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-lento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-lento/) |
+| **Get License** | [Get a Licensing Quote for Fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-lento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras así y el tiempo va a fuego lento
+> Bailando en la disco, sintiendo el momento
+> Un toque salvaje, my baby, no miento
+> Tú eres la chispa y yo soy el incendio
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
