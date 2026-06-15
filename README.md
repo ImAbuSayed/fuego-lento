@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-lento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-lento/) |
+| **Get License** | [Request Licensing for Fuego lento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-lento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `487bcbd6fa3d6d767bfc3287677c67433f7038ebc0a69b6af3bee42bfd43aa92` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

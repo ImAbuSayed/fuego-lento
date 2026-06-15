@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego lento
+
+This log tracks the cryptographic history and versioning for the song **Fuego lento** (fuego-lento).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:05:54.934590 | `v1` | `487bcbd6fa3d6d767bfc3287677c67433f7038ebc0a69b6af3bee42bfd43aa92` | `d7ee91ba9f84d90f4de85bb5ffa974eed96dd86cd7fa48b56627ded8cea0d8d3` | `2026-06-15_fuego-lento-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
